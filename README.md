@@ -1,5 +1,5 @@
 
-<h3 align="left">A passionate environmental data scientist from forest</h3>
+<h3 align="left">A passionate environmental data scientist from Moscow</h3>
 
 
 - 🔭 I’m currently working on **Optimization in Agriculture**
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Machine Learning and Crop simulation models**
 
-- 📫 How to reach me **m.gasanov@skoltech.ru**
+- 📫 How to reach me **mikhail.gasanov@skoltech.ru**
 
 
 <h3 align="left">Languages and Tools:</h3>
