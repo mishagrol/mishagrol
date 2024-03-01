@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **Python, Machine Learning and Crop simulation models**
 
+- If you're interested, you can see my publications at [Google Scholar](https://scholar.google.com/citations?user=NKQYJoUAAAAJ&hl=en).
+
 - 📫 How to reach me **mikhail.gasanov@skoltech.ru**
 
 
