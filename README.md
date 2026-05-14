@@ -11,5 +11,3 @@
 
 - 📫 How to reach me **mikhail.gasanov@skoltech.ru**
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishagrol&" alt="mishagrol" /></p>
